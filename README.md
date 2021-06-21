@@ -7,7 +7,7 @@ Using a dataset from Kaggle containing various health-related features, we were 
 Since stroke is the second leading cause of death globally, we believe that this information is vital.
 <br>
 <br>
-
+"aside from the obvious need to minimize the rate of false negatives to save lives, hospitals & doctors can use this to protect against malpractice lawsuits by failing to identify patients who have had strokes"
 <br>
 <br>
 <br>
