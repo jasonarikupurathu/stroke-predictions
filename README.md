@@ -2,7 +2,9 @@
 
 Using a dataset from Kaggle containing various health-related features, we were able to predict if a patient is susceptible to a stroke. These features included, gender, age, if a patient had hypertension, if a patient had heart disease, etc.
 <br>
+<br>
 Since stroke is the second leading cause of death globally, we believe that this information is vital.
+<br>
 <br>
 These findings would be beneficial to a pharmaceutical company or a hospital looking to develop new treatments as well as able to better assess at risk stroke patients based on their history.
 <br>
