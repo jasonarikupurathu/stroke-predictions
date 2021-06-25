@@ -33,15 +33,11 @@ Please review our jupyter notebooks for analysis or view our [presentation](http
 ## github repository
 
     ├── README.md                                         <- The top-level README for reviewers of this project
-    ├── Kings_County_Housing_Version_2.ipynb              <- Main Analysis Includes: Inference & Prediction Models
-    ├── Predict_holdout.ipynb											        <- Main Notebook for final predictions
-    ├── housing_preds_jason_arikupurathu.csv							<- CSV for final predictions generated from Predict_holdout
-    ├── data                                              <- Both sourced externally
-        └ kc_house_data_test_features.csv												<- Test set csv
-        └ kc_house_data_train.csv 															<- Train set csv
-    ├── notes                                             <- Contains old notebooks and project guidelines
-    ├── presentation-slides                               <- Contains presentation slides
-        └ Slides-KCH-Analysis-Inference.pdf               			<- Presentation Slides
+    ├── Part1_Data_Analysis.ipynb                         <- Notebook for data cleaning and EDA
+    ├── Part2_Modeling.ipynb							  <- Main Notebook for final predictions
+    ├── healthcare-dataset-stroke-data.csv				  <- CSV containing raw data
+														
+    ├── images                                            <- Contains images used for presentation
     └── pickled_files                                     <- Contains Pickled Files
-        └ model.pickle                                     			<- Model pickled
-        └ other_info.pickle 																		<- Information to be passed pickled
+        └ df.pickle                                     			<- Modified DataFrame pickled
+        
