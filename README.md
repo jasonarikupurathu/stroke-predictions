@@ -28,7 +28,8 @@ Additional analysis may include adjusting our model to reduce false positives, i
 10) bmi: body mass index
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not
-
+# For More Information
+Please review our jupyter notebooks for analysis or view our [presentation](https://docs.google.com/presentation/d/1OgyJTN_87JvMij8mGmrIpnMZMrbiFTJudh3ZKB4Ps7A/edit?usp=sharing).
 ## github repository
 
     ├── README.md                                         <- The top-level README for reviewers of this project
