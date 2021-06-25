@@ -9,7 +9,7 @@ Using a [dataset from Kaggle](https://www.kaggle.com/fedesoriano/stroke-predicti
 # Methods
 Through various iterations of different classification models, normalizing our features, applying GridSearchCV to optimize parameters, and using SMOTE to correct for class imbalance, we were able to arrive at our best model.
 # Results
-Our final model, an XGBoost Classifier, yielded a recall score of 82% when predicting for strokes. Since we are most concerned about false negatives, recall was the best metric for assessing our model's efficacy. 
+Our final model, an XGBoost Classifier, yielded a recall score of 84% when predicting for strokes. Since we are most concerned about false negatives, recall was the best metric for assessing our model's efficacy. 
 
 # Conclusions
 Though we achieved a high recall score, the trade-off was increasing our false positive rate. There are many possible explanations for why our false positive rate is so high, for instance, patients who were misdiagnosed as having strokes likely are at higher risk for having a stroke at some point in their lives. Since it is both more dangerous and more likely to result in a malpractice lawsuit to have a false negative than a false positive, we were willing to overlook our high false positive rate.
